@@ -4,7 +4,15 @@
 
 El Sistema Integral de Gestión de Restaurante (SIGR) es una aplicación web desarrollada para optimizar la administración operativa de restaurantes mediante la automatización de procesos relacionados con pedidos, reservas, gestión de menús, control de caja y generación de reportes.
 
-Este proyecto corresponde al establecimiento de la línea base del software, permitiendo implementar procesos de control de versiones, trazabilidad y gestión de configuración.
+Este proyecto corresponde al establecimiento de la línea base del software, implementando procesos de gestión de configuración, control de versiones y documentación técnica.
+
+---
+
+# Desarrolladora del Proyecto
+
+- Maria Jose Romero
+- Estudiante de Ingeniería de Software
+- Séptimo semestre
 
 ---
 
@@ -20,19 +28,25 @@ Este proyecto corresponde al establecimiento de la línea base del software, per
 
 # Arquitectura del Proyecto
 
-```plaintext
 SIGR/
-│
+
 ├── backend/
+
 ├── interfaz/
+
 ├── base de datos/
+
 ├── documentos/
+
 ├── pruebas/
-│
+
 ├── CHANGELOG.md
+
 ├── LICENSE.txt
+
+├── VERSION.md
+
 └── README.md
-```
 
 ---
 
@@ -47,35 +61,54 @@ SIGR/
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
 
-## Herramientas de Desarrollo
+## Herramientas
 - Git
 - GitHub
 - Visual Studio Code
 
 ---
 
-# Integrantes del Proyecto
+# Gestión de Configuración
 
-- Nombre Integrante 1
-- Nombre Integrante 2
-- Nombre Integrante 3
+El proyecto implementa prácticas de gestión de configuración mediante:
 
----
-
-# Estado del Proyecto
-
-Versión Línea Base 1.0 estable.
+- Control de versiones con Git.
+- Administración de cambios mediante commits.
+- Organización modular del repositorio.
+- Trazabilidad documental.
+- Línea base inicial estable.
 
 ---
 
 # Control de Versiones
 
-Repositorio administrado mediante GitHub utilizando commits y trazabilidad de cambios.
+## Rama principal
+- principal
+
+## Rama de desarrollo
+- develop
+
+## Ejemplos de commits
+- FEAT: creación carpeta backend
+- FEAT: creación carpeta interfaz
+- DOCS: actualización README
+- DOCS: creación control de versiones
 
 ---
 
-# Licencia
+# Estado del Proyecto
 
-MIT License.
+Versión estable de línea base:
+- v1.0.0
+
+Estado:
+- En desarrollo académico.
+
+---
+
+# Autor
+
+Maria Jose Romero Monroy
+
+Proyecto académico de Ingeniería de Software.
